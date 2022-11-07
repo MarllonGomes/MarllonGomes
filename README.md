@@ -9,7 +9,6 @@ I've been working as FullStack freelancing since 2017. I started with PHP/Larave
 * 🌍  I'm based in Salinas/MG - Brazil
 * 🖥️  See my portfolio at [My Personal Site](http://marllongomes.com)
 * ✉️  You can contact me at [marllon.fgomes@gmail.com](mailto:marllon.fgomes@gmail.com)
-* 🚀  I'm currently working on [Lojia](http://lojia.com.br)
 * 🧠  I'm currently Extending my Typescript/NestJS skills
 * 🤝  I'm open to collaborating on Interesting Projets based in Javascript/Typescript especially for backend
 
