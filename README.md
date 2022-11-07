@@ -6,7 +6,6 @@ Full Stack Web Developer
 
 I've been working as FullStack freelancing since 2017. I started with PHP/Laravel with a have a good knowledge, and now i'm focused in Javascript/Typescript working as main stack, React, React Native and NodeJS.
 
-* 🌍  I'm based in Salinas/MG - Brazil
 * 🖥️  See my portfolio at [My Personal Site](http://marllongomes.com)
 * ✉️  You can contact me at [marllon.fgomes@gmail.com](mailto:marllon.fgomes@gmail.com)
 * 🧠  I'm currently Extending my Typescript/NestJS skills
